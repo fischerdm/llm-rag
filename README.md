@@ -1,8 +1,10 @@
-# RAG Chatbot — InnoTrans Prototype
+# RAG Chatbot — A Prototype
 
-A simple proof-of-concept RAG (Retrieval-Augmented Generation) chatbot built as part of a continuous software engineering education project. The original use case was a trade fair assistant for **InnoTrans**, where visitors could ask questions about the latest innovations on display.
+A simple proof-of-concept RAG (Retrieval-Augmented Generation) chatbot built as part of a continuous software engineering education project. The original use case was a trade fair assistant for **InnoTrans** — a trade fair for train components — where visitors could ask questions about the latest innovations on display. This is the reason for sample texts — here translated to English — like:
 
-This prototype demonstrates that RAG works: a local LLM answers questions grounded in a custom document set, rather than relying purely on its training data.
+> Supplier X distributes coupling B.
+
+The prototype demonstrates that RAG works: a local LLM answers questions grounded in a custom document set, rather than relying purely on its training data.
 
 ## Stack
 

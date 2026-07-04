@@ -1,7 +1,6 @@
 # Chatbot
 
 ## Tools
-- Installation GPT4ALL (https://www.nomic.ai/gpt4all)
 - Installation Ollama (https://ollama.com/download)
 - Installation Llama 3 8B Instruct
 

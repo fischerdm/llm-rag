@@ -31,7 +31,7 @@ ollama serve
 
 **4. Run the notebook**
 
-Open `src/my_first_chat_bot_mit_RAG.ipynb` and run all cells.
+Open `src/RAG_prototype.ipynb` and run all cells.
 
 ## Project Structure
 

@@ -1,6 +1,6 @@
 # RAG Chatbot (Proof-of-Concept)
 
-A simple proof-of-concept RAG (Retrieval-Augmented Generation) chatbot built alongside the **CAS Software Engineering** program at **ZHAW**. The conceptual use case was a trade fair assistant for the Swiss Federal Railways (SBB) to improve information flow among employees at **InnoTrans** — the world's largest trade fair for the rail industry, held in Berlin. One employee spotting an interesting supplier or innovation could instantly share that knowledge with colleagues across the fair, who could then draw on it in their own conversations and negotiations — making the entire visit far more valuable for the team. This is the reason for sample texts — here translated to English — like:
+A simple proof-of-concept RAG (Retrieval-Augmented Generation) chatbot built alongside the **CAS Software Engineering** program at **ZHAW**, using the group project's use case as its context. The scenario centres on a trade fair assistant for the Swiss Federal Railways (SBB) to improve information flow among employees at **InnoTrans** — the world's largest trade fair for the rail industry, held in Berlin. One employee spotting an interesting supplier or innovation could instantly share that knowledge with colleagues across the fair, who could then draw on it in their own conversations and negotiations — making the entire visit far more valuable for the team. This is the reason for sample texts — here translated to English — like:
 
 > Supplier X distributes coupling B.
 
